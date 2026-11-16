@@ -1,6 +1,6 @@
 # Hi, I'm Adel Kassem 👋
 
-## AI Automation \| Python \| AI Agents
+## Future AI Automation Engineer | Python Developer | AI Agent Builder
 
 I'm building practical AI solutions using Python, AI automation, and modern AI tools.
 
@@ -12,15 +12,19 @@ I'm building practical AI solutions using Python, AI automation, and modern AI t
 - Git & GitHub
 - OpenAI & Claude APIs
 
-### 🛠 Skills
+### 🛠 Skills & Technologies
 
-- Python
-- Git
-- GitHub
-- n8n
-- Microsoft Power Automate
-- Prompt Engineering
-- API Integration
+Git
+GitHub
+Microsoft Power Automate
+Prompt Engineering
+
+📖 Currently Developing
+
+Python
+n8n
+API Integration
+AI Agents
 
 ### 📚 Currently Learning
 
@@ -73,3 +77,12 @@ Learning in public. Building every week. Improving every day.
 
 ### Current Focus
 Learning Python fundamentals and preparing for AI development.
+
+## 🚀 2027 Roadmap
+
+- [ ] Complete CS50 Python
+- [ ] Build 10 AI Projects
+- [ ] Master n8n Automation
+- [ ] Build AI Agents
+- [ ] Launch First AI Service
+- [ ] Earn First Income From AI
