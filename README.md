@@ -45,6 +45,7 @@ I'm building practical AI solutions using Python, AI automation, and modern AI t
 - Recruitment Assistant
 - Healthcare Referral Automation
 - AI Document Assistant
+  
 ## 🎯 My Mission
 
 My goal is to become an AI Automation and AI Engineering professional by building practical solutions that solve real business problems.
@@ -52,6 +53,7 @@ My goal is to become an AI Automation and AI Engineering professional by buildin
 I am focused on mastering Python, AI automation, AI agents, workflow orchestration, and modern AI technologies while documenting my journey publicly through GitHub.
 
 I believe the best way to learn is by building projects, sharing progress, and continuously improving.
+
 ### 🌏 Location
 
 Sydney, Australia
