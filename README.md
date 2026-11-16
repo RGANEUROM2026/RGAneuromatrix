@@ -1,6 +1,6 @@
 # Hi, I'm Adel Kassem 👋
 
-## Future AI Automation Engineer \| Python Developer \| AI Agent Builder
+## Future AI Automation Engineer | Python Developer | AI Agent Builder
 
 I'm building practical AI solutions using Python, AI automation, and modern AI tools.
 
